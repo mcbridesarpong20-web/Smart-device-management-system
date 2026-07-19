@@ -32,5 +32,5 @@ Follow these quick steps to set up and run the terminal program locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/smart-device-management-system.git](https://github.com/YOUR_USERNAME/smart-device-management-system.git)
+   git clone [https://github.com/mcbridesarpong20-web/smart-device-management-system.git](https://github.com/YOUR_USERNAME/smart-device-management-system.git)
    cd smart-device-management-system
